@@ -6,6 +6,8 @@ public class Uno {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("One plus one is "+(a+b));
+		Double c = a+b;
+		System.out.println("In lettere "+c.toString());
 
 	}
 
